@@ -1,0 +1,39 @@
+body {
+ border: 20px solid #bdc3c7;
+ width: 80%;
+ max-width: 700px;
+ margin: 20px auto;
+ font-family: 'Source Sans Pro', sans-serif;
+}
+h5 {
+	color: #3498db;
+	padding: 1em;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	margin: auto;
+}
+h2 {
+	color: #2c3e50;
+	padding: 0.5em;
+	margin: auto;
+	font-size: 2.0rem;
+}
+.uuper {
+	font-size: 13px;
+	border-left: 4px solid #bdc3c7;
+	padding-left: 0.5em;
+	margin: 1em;
+}
+
+p {
+	font-size: 13px;
+
+	/*padding-left: 0.5em;*/
+	margin: 1em;
+}
+.post {
+	margin: 20px;
+}
+hr {
+	margin: 0.5em;
+}
